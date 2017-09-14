@@ -1,0 +1,125 @@
+
+
+html{
+font-size: 12px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+  header{
+    background-color: #06D6A0;;
+    /*padding: 0 50px;*/
+    overflow: hidden;
+    height: 60px;
+    line-height: 60px;
+}
+  h1 {
+    color: white;
+    text-align: left;
+    display: inline;
+
+}
+
+header nav {
+  float: right;
+}
+header li{
+  float: left;
+  margin-left: 10px
+
+}
+
+header ul{
+  font-size: 18px;
+}
+
+main {
+  width: 90%;
+  margin: 0 auto;
+  overflow: hidden;
+
+}
+
+section {
+float: left;
+overflow: hidden;
+padding: 20px
+
+}
+
+.top-images {
+  background-color: #26547C;
+  font-size: 50px;
+  padding: 0;
+}
+
+.top-images img{
+  width: 60%;
+
+}
+.top-images h2 {
+  color: white;
+  float: right;
+  width: 40%
+}
+
+.main_paragraphes{
+  background-color: #FFD166;
+  padding: 50px 20px 0;
+}
+
+.main_paragraphes h2{
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 20px;
+}
+ p {
+  margin-bottom: 20px;
+  font-size: 19px;
+}
+
+.products{
+  background-color: #F2F2F2
+  }
+
+.products img {
+  float: left;
+  width: 30%;
+  margin: 10px 10px 10px 10px;
+  border: solid black 4px;
+
+}
+
+.team {
+  background-color: #26547C;
+  color: white;
+}
+
+.team ul {
+  color: #EF476F;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  overflow: hidden;
+}
+
+.team li{
+  float: left;
+  width: 30%;
+  text-align: center;
+}
+
+footer {
+  background-color: #06D6A0;
+height: 50px;
+line-height: 50px;
+float: left;
+width: 100%;
+overflow: hidden;
+/*margin-right: 20px;*/
+}
+
+footer p {
+  text-align: right;
+  margin-right: 20px;
+}
